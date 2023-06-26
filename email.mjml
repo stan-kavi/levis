@@ -2,7 +2,7 @@
   <mj-body background-color="#EBEBEB">
     <mj-section background-color="#EBEBEB" background-repeat="repeat" padding-top="0" text-align="center">
       <mj-column>
-        <mj-image align="center" padding="0px 25px" src="logo.png" width="76px" height="32px"></mj-image>
+        <mj-image align="center" padding="0px 25px" src="https://stan-kavi.github.io/levis/logo.png" width="76px" height="32px"></mj-image>
       </mj-column>
     </mj-section>
     
@@ -12,7 +12,7 @@
           <h1 align="center" style="font-size: 25px; font-weight: 700;">PR COVERAGE</h1>
           <p style="font-size: 12px; line-height:16px; font-weight: 300; padding-top: 10px; text-align: center;">Reporting on all 501 coverage from the UK market for the 150th anniversary year, from key touchpoints such as the below</p>   
         </mj-text>
-        <mj-image align="center" src="arrow-down.png" width="23px" height="12px"></mj-image>
+        <mj-image align="center" src="https://stan-kavi.github.io/levis/arrow-down.png" width="23px" height="12px"></mj-image>
       </mj-column>
     </mj-section>
     
@@ -24,11 +24,11 @@
     
     <mj-section background-color="#B42B36" padding="0px 0px 0px 0px" full-width="full-width">
       <mj-column padding="0" width="150px" >
-        <mj-image padding="0" padding-left="15px" align="left" src="coverage.png" width="68px" height="157px"></mj-image>
+        <mj-image padding="0" padding-left="15px" align="left" src="https://stan-kavi.github.io/levis/coverage.png" width="68px" height="157px"></mj-image>
       </mj-column>
       <mj-column padding-left="15px" padding-right="1px" padding-top="10px" width="190px"> 
         <mj-text font-family="Helvetica" color="#FFFFFF" padding="1px">
-          <p style="display: inline-block; font-size: 10px; line-height:16px; font-weight: 700; padding: 10px; margin-bottom:0px; margin-right: 1px; width: 140px; text-align: center; text-transform: uppercase; border: 1px dashed #FFFFFF">150th anniversary features​</p>   
+          <p style="display: inline-block; font-size: 10px; line-height:16px; font-weight: 700; padding: 10px; margin-bottom:0px; margin-right: 1px; width: 140px; text-align: center; text-transform: uppercase; border: 1px dashed #FFFFFF; color:#FFFFFF;">150th anniversary features​</p>   
         </mj-text>
 
         <mj-text font-family="Helvetica" color="#FFFFFF" padding="0">
@@ -89,8 +89,8 @@
     <!-- Block -->
     <mj-section background-color="#FFFFFF" background-repeat="repeat" padding-top="0" text-align="center" full-width="full-width">
       <mj-column>
-        <mj-text align="left" color="#55575d" font-family="Helvetica" font-size="12px" line-height="35px" padding="0px 20px">
-          <div style="display: inline-block; position: relative; top:-30px; background-image: url('tape.png'); background-repeat: no-repeat; background-size: contain; width: 244px; min-height: 35px; color: #FFF; text-align: center; font-size: 12px; font-family: Helvetica; font-weight: 700; text-transform: uppercase; padding: 15px; margin: 0;">150th anniversary features</div>
+        <mj-text align="left" color="#FFFFFF" font-family="Helvetica" font-size="12px" line-height="35px" padding="0px 20px">
+          <div style="display: inline-block; position: relative; top:-30px; background-image: url('https://stan-kavi.github.io/levis/tape.png'); background-repeat: no-repeat; background-size: contain; width: 244px; min-height: 35px; text-align: center; font-size: 12px; font-family: Helvetica; font-weight: 700; text-transform: uppercase; padding: 15px; margin: 0; color:#FFFFFF;"><span color="#FFFFFF" style="color:#FFFFFF;">150th anniversary features</span></div>
         </mj-text>
         <mj-text align="left" color="#B42B36" font-family="Helvetica, sans-serif" font-size="12px" line-height="22px" font-weight="700" padding="0px 45px">
           <span style="">PRESS COVERAGE</span>
@@ -100,7 +100,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" full-width="full-width" padding-left="30px" padding-right="30px" padding-top="0" padding-bottom="50px">
       <mj-column vertical-align="top" width="33.33333333333333%">
-        <mj-image src="elle.png" alt="" width="122px"></mj-image>
+        <mj-image src="https://stan-kavi.github.io/levis/elle.png" alt="" width="122px"></mj-image>
         <mj-text font-family="Helvetica" align="left" color="#000000" font-size="11px" line-height="14px" padding-bottom="30px" padding-top="5px">
           <span style="font-size: 12px; line-height: 14px; font-weight: 700; text-transform: uppercase; color: #B42B36">ELLE</span><br /><br />
           <span>Impressions:</span> <b>109,568​</b><br />
@@ -108,7 +108,7 @@
         </mj-text>
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%">
-        <mj-image src="vogue.png" alt="" width="122px"></mj-image>
+        <mj-image src="https://stan-kavi.github.io/levis/vogue.png" alt="" width="122px"></mj-image>
         <mj-text font-family="Helvetica" align="left" color="#000000" font-size="11px" line-height="14px" padding-bottom="30px" padding-top="5px">
           <span style="font-size: 12px; line-height: 14px; font-weight: 700; text-transform: uppercase; color: #B42B36">Vogue</span><br /><br />
           <span>Impressions:</span> <b>3,700,000​​​</b><br />
@@ -116,7 +116,7 @@
         </mj-text>
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%">
-        <mj-image src="daily.png" alt="" width="122px"></mj-image>
+        <mj-image src="https://stan-kavi.github.io/levis/daily.png" alt="" width="122px"></mj-image>
         <mj-text font-family="Helvetica" align="left" color="#000000" font-size="11px" line-height="14px" padding-bottom="30px" padding-top="5px">
           <span style="font-size: 12px; line-height: 14px; font-weight: 700; text-transform: uppercase; color: #B42B36">Daily Telegraph​</span><br /><br />
           <span>Impressions:</span> <b>317,816​​​</b><br />
@@ -147,7 +147,7 @@
     </mj-section>
     <mj-section background-color="#EBEBEB" full-width="full-width" padding-left="30px" padding-right="30px" padding-top="0" padding-bottom="10px">
       <mj-column vertical-align="top" width="33.33333333333333%">
-        <mj-image src="social1.png" alt="" width="122px"></mj-image>
+        <mj-image src="https://stan-kavi.github.io/levis/social1.png" alt="" width="122px"></mj-image>
         <mj-text font-family="Helvetica" align="left" color="#000000" font-size="11px" line-height="14px" padding-bottom="30px" padding-top="5px">
           <span style="font-size: 12px; line-height: 14px; font-weight: 700; text-transform: uppercase; color: #B42B36">Munashe Ashlyn</span><br /><br />
           <span>Impressions:</span> <b>1,586​​</b><br />
@@ -155,7 +155,7 @@
         </mj-text>
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%">
-        <mj-image src="social2.png" alt="" width="122px"></mj-image>
+        <mj-image src="https://stan-kavi.github.io/levis/social2.png" alt="" width="122px"></mj-image>
         <mj-text font-family="Helvetica" align="left" color="#000000" font-size="11px" line-height="14px" padding-bottom="30px" padding-top="5px">
           <span style="font-size: 12px; line-height: 14px; font-weight: 700; text-transform: uppercase; color: #B42B36">Daisy Murray​</span><br /><br />
           <span>Impressions:</span> <b>12,900​​</b><br />
@@ -163,7 +163,7 @@
         </mj-text>
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%">
-        <mj-image src="social3.png" alt="" width="122px"></mj-image>
+        <mj-image src="https://stan-kavi.github.io/levis/social3.png" alt="" width="122px"></mj-image>
         <mj-text font-family="Helvetica" align="left" color="#000000" font-size="11px" line-height="14px" padding-bottom="30px" padding-top="5px">
           <span style="font-size: 12px; line-height: 14px; font-weight: 700; text-transform: uppercase; color: #B42B36">Eric Brain​​</span><br /><br />
           <span>Impressions:</span> <b>21,800​​</b><br />
@@ -186,8 +186,8 @@
     <!-- Block -->
     <mj-section background-color="#FFFFFF" background-repeat="repeat" padding-top="0" text-align="center" full-width="full-width">
       <mj-column>
-        <mj-text align="right" color="#55575d" font-family="Helvetica" font-size="12px" line-height="14px" padding="0px 20px">
-          <div style="display: inline-block; position: relative; top:-30px; background-image: url('tape2.png'); background-repeat: no-repeat; background-size: contain; width: 244px; min-height: 35px; color: #FFF; text-align: center; font-size: 12px; font-family: Helvetica; font-weight: 700; text-transform: uppercase; padding: 20px; padding-left: 0px; margin: 0;">Greatest Story<br/>Ever Worn​</div>
+        <mj-text align="right" color="#FFFFFF" font-family="Helvetica" font-size="12px" line-height="14px" padding="0px 20px">
+          <div style="display: inline-block; position: relative; top:-30px; background-image: url('https://stan-kavi.github.io/levis/tape2.png'); background-repeat: no-repeat; background-size: contain; width: 244px; min-height: 35px; text-align: center; font-size: 12px; font-family: Helvetica; font-weight: 700; text-transform: uppercase; padding: 20px; padding-left: 0px; margin: 0; color:#FFFFFF;"><span color="#FFFFFF" style="color:#FFFFFF;">Greatest Story<br/>Ever Worn</span>​</div>
         </mj-text>
         <mj-text align="left" color="#B42B36" font-family="Helvetica, sans-serif" font-size="12px" line-height="22px" font-weight="700" padding="0px 45px">
           <span style="">PRESS COVERAGE</span>
@@ -197,7 +197,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" full-width="full-width" padding-left="30px" padding-right="30px" padding-top="0">
       <mj-column vertical-align="top" width="33.33333333333333%">
-        <mj-image src="elle.png" alt="" width="122px"></mj-image>
+        <mj-image src="https://stan-kavi.github.io/levis/elle.png" alt="" width="122px"></mj-image>
         <mj-text font-family="Helvetica" align="left" color="#000000" font-size="11px" line-height="14px" padding-bottom="30px" padding-top="5px">
           <span style="font-size: 12px; line-height: 14px; font-weight: 700; text-transform: uppercase; color: #B42B36">HYPEBEAST</span><br /><br />
           <span>Impressions:</span> <b>7,200,000​</b><br />
@@ -205,7 +205,7 @@
         </mj-text>
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%">
-        <mj-image src="vogue.png" alt="" width="122px"></mj-image>
+        <mj-image src="https://stan-kavi.github.io/levis/vogue.png" alt="" width="122px"></mj-image>
         <mj-text font-family="Helvetica" align="left" color="#000000" font-size="11px" line-height="14px" padding-bottom="30px" padding-top="5px">
           <span style="font-size: 12px; line-height: 14px; font-weight: 700; text-transform: uppercase; color: #B42B36">VIPER</span><br /><br />
           <span>Impressions:</span> <b>208,109​​</b><br />
@@ -213,7 +213,7 @@
         </mj-text>
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%">
-        <mj-image src="daily.png" alt="" width="122px"></mj-image>
+        <mj-image src="https://stan-kavi.github.io/levis/daily.png" alt="" width="122px"></mj-image>
         <mj-text font-family="Helvetica" align="left" color="#000000" font-size="11px" line-height="14px" padding-bottom="30px" padding-top="5px">
           <span style="font-size: 12px; line-height: 14px; font-weight: 700; text-transform: uppercase; color: #B42B36">Marketing Dive​​</span><br /><br />
           <span>Impressions:</span> <b>2,231,250​​</b><br />
@@ -236,7 +236,7 @@
          </mj-text>
       </mj-column>
       <mj-column width="70%">
-        <mj-image src="dots.png" width="338px" height="68px" alt="" />
+        <mj-image src="https://stan-kavi.github.io/levis/dots.png" width="338px" height="68px" alt="" />
       </mj-column>
     </mj-section>   
     <mj-section background-color="#EBEBEB" background-repeat="repeat" padding-top="45px" text-align="center" full-width="full-width">
@@ -249,7 +249,7 @@
     </mj-section>
     <mj-section background-color="#EBEBEB" full-width="full-width" padding-left="30px" padding-right="30px" padding-top="0" padding-bottom="50px">
       <mj-column vertical-align="top" width="33.33333333333333%">
-        <mj-image src="exp1.png" alt="" width="122px"></mj-image>
+        <mj-image src="https://stan-kavi.github.io/levis/exp1.png" alt="" width="122px"></mj-image>
         <mj-text font-family="Helvetica" align="left" color="#000000" font-size="11px" line-height="14px" padding-bottom="30px" padding-top="5px">
           <span style="font-size: 12px; line-height: 14px; font-weight: 700; text-transform: uppercase; color: #B42B36">HUNGER</span><br /><br />
           <span>Impressions:</span> <b>205,000​​</b><br />
@@ -257,7 +257,7 @@
         </mj-text>
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%">
-        <mj-image src="exp2.png" alt="" width="122px"></mj-image>
+        <mj-image src="https://stan-kavi.github.io/levis/exp2.png" alt="" width="122px"></mj-image>
         <mj-text font-family="Helvetica" align="left" color="#000000" font-size="11px" line-height="14px" padding-bottom="30px" padding-top="5px">
           <span style="font-size: 12px; line-height: 14px; font-weight: 700; text-transform: uppercase; color: #B42B36">LLB​</span><br /><br />
           <span>Impressions:</span> <b>348,360​​</b><br />
@@ -265,7 +265,7 @@
         </mj-text>
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%">
-        <mj-image src="exp3.png" alt="" width="122px"></mj-image>
+        <mj-image src="https://stan-kavi.github.io/levis/exp3.png" alt="" width="122px"></mj-image>
         <mj-text font-family="Helvetica" align="left" color="#000000" font-size="11px" line-height="14px" padding-bottom="30px" padding-top="5px">
           <span style="font-size: 12px; line-height: 14px; font-weight: 700; text-transform: uppercase; color: #B42B36">i-D​​​</span><br /><br />
           <span>Impressions:</span> <b>6,500,000​</b><br />
@@ -296,7 +296,7 @@
     </mj-section>
     <mj-section background-color="#B42B36" full-width="full-width" padding-left="30px" padding-right="30px" padding-top="0" padding-bottom="0px">
       <mj-column vertical-align="top" width="33.33333333333333%" background-color="#FFFFFF">
-        <mj-image src="social1.png" alt="" width="122px"></mj-image>
+        <mj-image src="https://stan-kavi.github.io/levis/social1.png" alt="" width="122px"></mj-image>
         <mj-text font-family="Helvetica" align="left" color="#000000" font-size="11px" line-height="14px" padding-bottom="30px" padding-top="5px">
           <span style="font-size: 12px; line-height: 14px; font-weight: 700; text-transform: uppercase; color: #B42B36">Munashe Ashlyn</span><br /><br />
           <span>Impressions:</span> <b>1,586​​</b><br />
@@ -304,7 +304,7 @@
         </mj-text>
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%" background-color="#FFFFFF">
-        <mj-image src="social2.png" alt="" width="122px"></mj-image>
+        <mj-image src="https://stan-kavi.github.io/levis/social2.png" alt="" width="122px"></mj-image>
         <mj-text font-family="Helvetica" align="left" color="#000000" font-size="11px" line-height="14px" padding-bottom="30px" padding-top="5px">
           <span style="font-size: 12px; line-height: 14px; font-weight: 700; text-transform: uppercase; color: #B42B36">Daisy Murray​</span><br /><br />
           <span>Impressions:</span> <b>12,900​​</b><br />
@@ -312,7 +312,7 @@
         </mj-text>
       </mj-column>
       <mj-column vertical-align="top" width="33.33333333333333%" background-color="#FFFFFF">
-        <mj-image src="social3.png" alt="" width="122px"></mj-image>
+        <mj-image src="https://stan-kavi.github.io/levis/social3.png" alt="" width="122px"></mj-image>
         <mj-text font-family="Helvetica" align="left" color="#000000" font-size="11px" line-height="14px" padding-bottom="30px" padding-top="5px">
           <span style="font-size: 12px; line-height: 14px; font-weight: 700; text-transform: uppercase; color: #B42B36">Eric Brain​​</span><br /><br />
           <span>Impressions:</span> <b>21,800​​</b><br />
@@ -334,19 +334,19 @@
 
     <mj-section padding="0px 0px 0px 0px" text-align="center">
         <mj-column width="60px" padding="0" padding-right="10px" padding-bottom="10px">    
-          <mj-image src="facebook.png" width="35px" height="35px" alt="" padding="0" />
+          <mj-image src="https://stan-kavi.github.io/levis/facebook.png" width="35px" height="35px" alt="" padding="0" />
         </mj-column>
         <mj-column width="60px" padding="0" padding-right="10px" padding-bottom="10px">    
-          <mj-image src="twitter.png" width="35px" height="35px" alt="" padding="0" />
+          <mj-image src="https://stan-kavi.github.io/levis/twitter.png" width="35px" height="35px" alt="" padding="0" />
         </mj-column>
         <mj-column width="60px" padding="0" padding-right="10px" padding-bottom="10px"> 
-          <mj-image src="youtube.png" width="35px" height="35px" alt="" padding="0" />
+          <mj-image src="https://stan-kavi.github.io/levis/youtube.png" width="35px" height="35px" alt="" padding="0" />
         </mj-column>
         <mj-column width="60px" padding="0" padding-right="10px" padding-bottom="10px"> 
-          <mj-image src="pinterest.png" width="35px" height="35px" alt="" padding="0" />
+          <mj-image src="https://stan-kavi.github.io/levis/pinterest.png" width="35px" height="35px" alt="" padding="0" />
         </mj-column>
         <mj-column width="60px" padding="0" padding-right="10px" padding-bottom="10px"> 
-          <mj-image src="instagram.png" width="35px" height="35px" alt="" padding="0" /> 
+          <mj-image src="https://stan-kavi.github.io/levis/instagram.png" width="35px" height="35px" alt="" padding="0" /> 
         </mj-column>     
     </mj-section>
     <mj-section padding="20px 0px 20px 0px" text-align="center">
